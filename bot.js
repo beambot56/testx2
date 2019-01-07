@@ -33,7 +33,7 @@ client.on('message', message => {
 
     if (message.content === '?doctor') {
     
-      message.say('The number for Dr.Nibba is 1-800-Not-Real !')
+      message.channel.say('The number for Dr.Nibba is 1-800-Not-Real !')
        
        }
 });
