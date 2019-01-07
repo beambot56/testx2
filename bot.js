@@ -26,6 +26,6 @@ client.on('message', message => {
 
 // THIS  MUST  BE  THIS  WAY
 
-client.login(process.env.NTE5MjY4OTUyOTU0NjM0MjUy.DxRCjA.ngXmDTdP1-YDl61HqBYnoqrroG8);
+client.login(process.env.BOT_TOKEN);
 
 //where BOT_TOKEN is the token of our bot, this is a template, the token is a random and not real
