@@ -22,7 +22,7 @@ client.on('message', message => {
 
     if (message.content === '?cookie') {
  
-        message.reply('Here is a freshly baked cookie from me! <3")
+        message.reply('Here is a freshly baked cookie from me! <3')
 
        }
 });
